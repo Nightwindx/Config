@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>HTTPS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>45.90.28.0</string>
+						<string>2a07:a8c0::</string>
+						<string>45.90.30.0</string>
+						<string>2a07:a8c1::</string>
+					</array>
+					<key>ServerURL</key>
+					<string>https://apple.dns.nextdns.io/7611eb/Iphone%207/Apple%20iPhone9%2C1</string>
+				</dict>
+				<key>OnDemandRules</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>EvaluateConnection</string>
+						<key>ActionParameters</key>
+						<array>
+							<dict>
+								<key>DomainAction</key>
+								<string>NeverConnect</string>
+								<key>Domains</key>
+								<array>
+									<string>dav.orange.fr</string>
+									<string>msg.t-mobile.com</string>
+									<string>vvm.ee.co.uk</string>
+								</array>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>Action</key>
+						<string>Connect</string>
+					</dict>
+				</array>
+				<key>PayloadDisplayName</key>
+				<string>NextDNS (7611eb)</string>
+				<key>PayloadIdentifier</key>
+				<string>io.nextdns.7611eb.profile.dnsSettings.managed</string>
+				<key>PayloadOrganization</key>
+				<string>NextDNS</string>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadUUID</key>
+				<string>61536858-d5a4-4121-beaa-b84c825e0392</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ProhibitDisablement</key>
+				<true />
+			</dict>
+			<dict>
+				<key>allowVPNCreation</key>
+				<false />
+				<key>blockedAppBundleIDs</key>
+				<array />
+				<key>PayloadDisplayName</key>
+				<string>Restrictions</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.applicationaccess.4b7bee21-fe3c-4438-a0a2-0478aed7ab40</string>
+				<key>PayloadType</key>
+				<string>com.apple.applicationaccess</string>
+				<key>PayloadUUID</key>
+				<string>e042d5a0-cc94-4898-9174-a6a3ea83f91c</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AutoFilterEnabled</key>
+				<true />
+				<key>FilterType</key>
+				<string>BuiltIn</string>
+				<key>PayloadDisplayName</key>
+				<string>Web Content Filter</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.webcontent-filter.27ea2490-363a-4287-b41a-36bebd77fbe1</string>
+				<key>PayloadType</key>
+				<string>com.apple.webcontent-filter</string>
+				<key>PayloadUUID</key>
+				<string>b1d905d1-7301-4012-acce-26cbde58b78b</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>LockScreenFootnote</key>
+				<string>If found call +39 345 367 5267 or  jadmajed111@gmail.com</string>
+				<key>PayloadDisplayName</key>
+				<string>Lock Screen Message</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.shareddeviceconfiguration.e02360c1-2f99-4ba9-9393-1a33c7f2892b</string>
+				<key>PayloadType</key>
+				<string>com.apple.shareddeviceconfiguration</string>
+				<key>PayloadUUID</key>
+				<string>ae162a54-5e15-402a-a773-20dbe7430c04</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>This profile enables NextDNS on all networks using the native Encrypted DNS feature.</string>
+		<key>PayloadDisplayName</key>
+		<string>NextDNS (7611eb)</string>
+		<key>PayloadIdentifier</key>
+		<string>io.nextdns.7611eb.profile</string>
+		<key>PayloadOrganization</key>
+		<string>NextDNS</string>
+		<key>PayloadRemovalDisallowed</key>
+		<true />
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>549dc514-b03b-4f98-8018-68b9c1c43abf</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>TargetDeviceType</key>
+		<integer>1</integer>
+	</dict>
+</plist>

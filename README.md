@@ -1,2 +1,2 @@
 # Config
-[Install]()
+[Install](https://raw.githubusercontent.com/Nightwindx/Config/refs/heads/main/Lockdown%20Mode%20-%20Copy.mobileconfig)

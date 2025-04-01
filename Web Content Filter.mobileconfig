@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>DurationUntilRemoval</key>
+		<real>2419200</real>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>AutoFilterEnabled</key>
+				<true />
+				<key>DenyListURLs</key>
+				<array />
+				<key>FilterType</key>
+				<string>BuiltIn</string>
+				<key>PayloadDisplayName</key>
+				<string>Web Content Filter #1</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.webcontent-filter.052f557f-a548-49b3-81a2-af006b7daf38</string>
+				<key>PayloadType</key>
+				<string>com.apple.webcontent-filter</string>
+				<key>PayloadUUID</key>
+				<string>052f557f-a548-49b3-81a2-af006b7daf38</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>allowAppInstallation</key>
+				<false />
+				<key>allowAppRemoval</key>
+				<false />
+				<key>allowUIAppInstallation</key>
+				<false />
+				<key>PayloadDisplayName</key>
+				<string>Restrictions #1</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.applicationaccess.8708fc13-18a4-4240-a2b7-72569970c011</string>
+				<key>PayloadType</key>
+				<string>com.apple.applicationaccess</string>
+				<key>PayloadUUID</key>
+				<string>8708fc13-18a4-4240-a2b7-72569970c011</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDisplayName</key>
+		<string>Content Filter + No AppStore + No App Removal</string>
+		<key>PayloadIdentifier</key>
+		<string>LAPTOP-RQ7CA19Q.04384d19-6382-4fa6-a22d-740e0730382e</string>
+		<key>PayloadRemovalDisallowed</key>
+		<true />
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>04384d19-6382-4fa6-a22d-740e0730382e</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>

@@ -68,36 +68,6 @@
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
-			<dict>
-				<key>DNS</key>
-				<dict>
-					<key>DNSProtocol</key>
-					<string>HTTPS</string>
-					<key>DomainName</key>
-					<string>Cloudflare Test</string>
-					<key>ServerAddresses</key>
-					<array>
-						<string>1.1.1.3</string>
-						<string>1.0.0.3</string>
-					</array>
-					<key>ServerURL</key>
-					<string>https://family.cloudflare-dns.com/dns-query</string>
-				</dict>
-				<key>PayloadDisplayName</key>
-				<string>VPN #1</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.vpn.managed.7a3edd47-b12c-4a14-ad62-188bff601ee6</string>
-				<key>PayloadType</key>
-				<string>com.apple.vpn.managed</string>
-				<key>PayloadUUID</key>
-				<string>7a3edd47-b12c-4a14-ad62-188bff601ee6</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-				<key>UserDefinedName</key>
-				<string>Cloudflare iOS</string>
-				<key>VPNType</key>
-				<string>L2TP</string>
-			</dict>
 		</array>
 		<key>PayloadDescription</key>
 		<string>Adds the Cloudflare DNS to Big Sur and iOS 14 based systems</string>

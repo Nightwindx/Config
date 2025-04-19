@@ -54,6 +54,20 @@
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
+			<dict>
+				<key>allowVPNCreation</key>
+				<false />
+				<key>PayloadDisplayName</key>
+				<string>Restrictions #1</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.applicationaccess.5b3b9e6a-616e-4b2a-9b90-80b26d7f7592</string>
+				<key>PayloadType</key>
+				<string>com.apple.applicationaccess</string>
+				<key>PayloadUUID</key>
+				<string>5b3b9e6a-616e-4b2a-9b90-80b26d7f7592</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
 		</array>
 		<key>PayloadDescription</key>
 		<string>Adds the Cloudflare DNS to Big Sur and iOS 14 based systems</string>

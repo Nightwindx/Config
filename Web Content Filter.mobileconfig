@@ -2,15 +2,137 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
-		<key>DurationUntilRemoval</key>
-		<real>2419200</real>
 		<key>PayloadContent</key>
 		<array>
 			<dict>
 				<key>AutoFilterEnabled</key>
 				<true />
 				<key>DenyListURLs</key>
-				<array />
+				<array>
+					<string>www.instagram.com</string>
+					<string>cdninstagram.com</string>
+					<string>www.bing.com</string>
+					<string>www2.bing.com</string>
+					<string>www3.bing.com</string>
+					<string>www4.bing.com</string>
+					<string>yandex.ru</string>
+					<string>yandex.org</string>
+					<string>yandex.net</string>
+					<string>yandex.net.ru</string>
+					<string>yandex.com.ru</string>
+					<string>yandex.ua</string>
+					<string>yandex.com.ua</string>
+					<string>yandex.by</string>
+					<string>yandex.eu</string>
+					<string>yandex.ee</string>
+					<string>yandex.lt</string>
+					<string>yandex.lv</string>
+					<string>yandex.md</string>
+					<string>yandex.uz</string>
+					<string>yandex.mx</string>
+					<string>yandex.do</string>
+					<string>yandex.tm</string>
+					<string>yandex.de</string>
+					<string>yandex.ie</string>
+					<string>yandex.in</string>
+					<string>yandex.qa</string>
+					<string>yandex.so</string>
+					<string>yandex.nu</string>
+					<string>yandex.tj</string>
+					<string>yandex.dk</string>
+					<string>yandex.es</string>
+					<string>yandex.pt</string>
+					<string>yandex.pl</string>
+					<string>yandex.lu</string>
+					<string>yandex.it</string>
+					<string>yandex.az</string>
+					<string>yandex.ro</string>
+					<string>yandex.rs</string>
+					<string>yandex.sk</string>
+					<string>yandex.no</string>
+					<string>ya.ru</string>
+					<string>yandex.com</string>
+					<string>yandex.asia</string>
+					<string>yandex.mobi</string>
+					<string>2yandex.ru</string>
+					<string>ndex.ru</string>
+					<string>newsyandex.ru</string>
+					<string>wwwyandex.ru</string>
+					<string>yandes.ru</string>
+					<string>yanclex.ru</string>
+					<string>yandexmedia.ru</string>
+					<string>yandfex.ru</string>
+					<string>yandx.ru</string>
+					<string>video.yandex.ru</string>
+					<string>video-yandex.ru</string>
+					<string>videoyandex.ru</string>
+					<string>yandex-video.ru</string>
+					<string>yandexvideo.ru</string>
+					<string>twitter.com  </string>
+					<string>x.com  </string>
+					<string>harveymedsoc.org  </string>
+					<string>vk.com  </string>
+					<string>quora.com  </string>
+					<string>pinterest.com  </string>
+					<string>imgur.com  </string>
+					<string>tumblr.com  </string>
+					<string>storiesig.info  </string>
+					<string>anonyig.com  </string>
+					<string>instanonimo.com  </string>
+					<string>instasupersave.com  </string>
+					<string>mollygram.com  </string>
+					<string>inflact.com  </string>
+					<string>aranzulla.it  </string>
+					<string>anonstories.com  </string>
+					<string>fastdl.app  </string>
+					<string>instapv.com  </string>
+					<string>gramsnap.com  </string>
+					<string>save-free.com  </string>
+					<string>simpliers.com  </string>
+					<string>stealthgram.com  </string>
+					<string>pathsocial.com  </string>
+					<string>views4you.com  </string>
+					<string>indown.io  </string>
+					<string>discogs.com  </string>
+					<string>instacognito.com  </string>
+					<string>techimply.com  </string>
+					<string>bitchipdigital.com  </string>
+					<string>insta360.com  </string>
+					<string>picuki.com  </string>
+					<string>anonimstories.com  </string>
+					<string>instanavigation.com  </string>
+					<string>stories-view.com  </string>
+					<string>socialmediaexaminer.com  </string>
+					<string>upgrow.com  </string>
+					<string>lookerstudio.google.com  </string>
+					<string>instuky.com  </string>
+					<string>instasaved.net  </string>
+					<string>inssist.com  </string>
+					<string>statusbrew.com  </string>
+					<string>picuki.site  </string>
+					<string>inststoryviewer.com  </string>
+					<string>pixnoy.com  </string>
+					<string>dumpor.io  </string>
+					<string>igram.dev  </string>
+					<string>instaviewer.co  </string>
+					<string>instastoriesviewer.com  </string>
+					<string>imginn.com  </string>
+					<string>insta-stories-viewer.online  </string>
+					<string>insta-storyviewer.com  </string>
+					<string>instastories-viewer.pro  </string>
+					<string>storiesdown.co  </string>
+					<string>neonmarketing.it  </string>
+					<string>privatephotoviewer.com  </string>
+					<string>toolzu.com  </string>
+					<string>viralyft.com  </string>
+					<string>thousandstory.com  </string>
+					<string>inviewer.co  </string>
+					<string>socimania.com  </string>
+					<string>insnoop.com  </string>
+					<string>instant-stories.com  </string>
+					<string>infotelematico.com  </string>
+					<string>greatfon.io</string>
+				</array>
 				<key>FilterType</key>
 				<string>BuiltIn</string>
 				<key>PayloadDisplayName</key>
@@ -26,11 +148,11 @@
 			</dict>
 			<dict>
 				<key>allowAppInstallation</key>
-				<false />
+				<true />
 				<key>allowAppRemoval</key>
-				<false />
+				<true />
 				<key>allowUIAppInstallation</key>
-				<false />
+				<true />
 				<key>PayloadDisplayName</key>
 				<string>Restrictions #1</string>
 				<key>PayloadIdentifier</key>
@@ -44,7 +166,7 @@
 			</dict>
 		</array>
 		<key>PayloadDisplayName</key>
-		<string>Content Filter + No AppStore + No App Removal</string>
+		<string>Bacth 1 Websites Blocked</string>
 		<key>PayloadIdentifier</key>
 		<string>LAPTOP-RQ7CA19Q.04384d19-6382-4fa6-a22d-740e0730382e</string>
 		<key>PayloadRemovalDisallowed</key>

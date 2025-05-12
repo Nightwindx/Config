@@ -132,6 +132,36 @@
 					<string>instant-stories.com  </string>
 					<string>infotelematico.com  </string>
 					<string>greatfon.io</string>
+					<string>picuki.site</string>
+					<string>imginn.com</string>
+					<string>insta-stories-viewer.com</string>
+					<string>anonyig.com</string>
+					<string>instanonimo.com</string>
+					<string>mollygram.com</string>
+					<string>simpliers.com</string>
+					<string>en1.savefrom.net</string>
+					<string>stealthgram.com</string>
+					<string>instasaved.com</string>
+					<string>storistalker.com</string>
+					<string>insta-stories.ru</string>
+					<string>stories-view.com</string>
+					<string>discogs.com</string>
+					<string>anonstories.com</string>
+					<string>instastoriesviewer.com</string>
+					<string>storysnooper.com</string>
+					<string>instasize.com</string>
+					<string>snapinsta.to</string>
+					<string>inviewer.co</string>
+					<string>storiesanon.com</string>
+					<string>saverinstapro.app</string>
+					<string>inststoryviewer.com</string>
+					<string>stories-agent.com</string>
+					<string>privatephotoviewer.com</string>
+					<string>storiesdown.co</string>
+					<string>instastory.watch</string>
+					<string>storiesview.app</string>
+					<string>storiesdown.co</string>
+					<string>instant-stories.com</string>
 				</array>
 				<key>FilterType</key>
 				<string>BuiltIn</string>
@@ -166,7 +196,7 @@
 			</dict>
 		</array>
 		<key>PayloadDisplayName</key>
-		<string>Bacth 1 Websites Blocked</string>
+		<string>Websites Blocked</string>
 		<key>PayloadIdentifier</key>
 		<string>LAPTOP-RQ7CA19Q.04384d19-6382-4fa6-a22d-740e0730382e</string>
 		<key>PayloadRemovalDisallowed</key>

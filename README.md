@@ -10,3 +10,5 @@
 [Install Batch 1](https://raw.githubusercontent.com/Nightwindx/Config/refs/heads/main/Web%20Content%20Filter.mobileconfig)
 
 [Install Youtube Block](https://raw.githubusercontent.com/Nightwindx/Config/refs/heads/main/Block%20Youtube.mobileconfig)
+
+[Install VPN Block](https://raw.githubusercontent.com/Nightwindx/Config/refs/heads/main/VPN%20Block.mobileconfig)
